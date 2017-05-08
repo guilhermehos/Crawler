@@ -1,0 +1,16 @@
+C:\Project\AutoAvaliar - Maintenance and Improvement\AutoAvaliar.Geral.Console.RodoWeb\AutoAvaliar.Geral.Console.RodoWeb\bin\Debug\AutoAvaliar.Geral.Console.RodoWeb.exe.config
+C:\Project\AutoAvaliar - Maintenance and Improvement\AutoAvaliar.Geral.Console.RodoWeb\AutoAvaliar.Geral.Console.RodoWeb\obj\Debug\AutoAvaliar.Geral.Console.RodoWeb.csprojResolveAssemblyReference.cache
+C:\Project\AutoAvaliar - Maintenance and Improvement\AutoAvaliar.Geral.Console.RodoWeb\AutoAvaliar.Geral.Console.RodoWeb\bin\Debug\AutoAvaliar.Geral.Console.RodoWeb.exe
+C:\Project\AutoAvaliar - Maintenance and Improvement\AutoAvaliar.Geral.Console.RodoWeb\AutoAvaliar.Geral.Console.RodoWeb\bin\Debug\AutoAvaliar.Geral.Console.RodoWeb.pdb
+C:\Project\AutoAvaliar - Maintenance and Improvement\AutoAvaliar.Geral.Console.RodoWeb\AutoAvaliar.Geral.Console.RodoWeb\obj\Debug\AutoAvaliar.Geral.Console.RodoWeb.exe
+C:\Project\AutoAvaliar - Maintenance and Improvement\AutoAvaliar.Geral.Console.RodoWeb\AutoAvaliar.Geral.Console.RodoWeb\obj\Debug\AutoAvaliar.Geral.Console.RodoWeb.pdb
+C:\Project\AutoAvaliar - Maintenance and Improvement\AutoAvaliar.Geral.Console.RodoWeb\AutoAvaliar.Geral.Console.RodoWeb\bin\Debug\Newtonsoft.Json.dll
+C:\Project\AutoAvaliar - Maintenance and Improvement\AutoAvaliar.Geral.Console.RodoWeb\AutoAvaliar.Geral.Console.RodoWeb\bin\Debug\Newtonsoft.Json.xml
+C:\Users\guilh\Desktop\AutoAvaliar - Maintenance and Improvement\AutoAvaliar.Geral.Console.RodoWeb\AutoAvaliar.Geral.Console.RodoWeb\bin\Debug\AutoAvaliar.Geral.Console.RodoWeb.exe.config
+C:\Users\guilh\Desktop\AutoAvaliar - Maintenance and Improvement\AutoAvaliar.Geral.Console.RodoWeb\AutoAvaliar.Geral.Console.RodoWeb\bin\Debug\AutoAvaliar.Geral.Console.RodoWeb.exe
+C:\Users\guilh\Desktop\AutoAvaliar - Maintenance and Improvement\AutoAvaliar.Geral.Console.RodoWeb\AutoAvaliar.Geral.Console.RodoWeb\bin\Debug\AutoAvaliar.Geral.Console.RodoWeb.pdb
+C:\Users\guilh\Desktop\AutoAvaliar - Maintenance and Improvement\AutoAvaliar.Geral.Console.RodoWeb\AutoAvaliar.Geral.Console.RodoWeb\bin\Debug\Newtonsoft.Json.dll
+C:\Users\guilh\Desktop\AutoAvaliar - Maintenance and Improvement\AutoAvaliar.Geral.Console.RodoWeb\AutoAvaliar.Geral.Console.RodoWeb\bin\Debug\Newtonsoft.Json.xml
+C:\Users\guilh\Desktop\AutoAvaliar - Maintenance and Improvement\AutoAvaliar.Geral.Console.RodoWeb\AutoAvaliar.Geral.Console.RodoWeb\obj\Debug\AutoAvaliar.Geral.Console.RodoWeb.csprojResolveAssemblyReference.cache
+C:\Users\guilh\Desktop\AutoAvaliar - Maintenance and Improvement\AutoAvaliar.Geral.Console.RodoWeb\AutoAvaliar.Geral.Console.RodoWeb\obj\Debug\AutoAvaliar.Geral.Console.RodoWeb.exe
+C:\Users\guilh\Desktop\AutoAvaliar - Maintenance and Improvement\AutoAvaliar.Geral.Console.RodoWeb\AutoAvaliar.Geral.Console.RodoWeb\obj\Debug\AutoAvaliar.Geral.Console.RodoWeb.pdb
